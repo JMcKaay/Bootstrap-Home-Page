@@ -1,0 +1,76 @@
+a{
+ color: white;  
+}
+
+.nav-link {
+    color: white;
+}
+
+.sectionLight{
+    
+    padding: 2em;
+}
+
+.sectionDark {
+    background-color: #cccccccc;
+    padding: 2rem;
+    
+}
+
+.buttonWrapper {
+   margin-top: 20px;
+}
+
+button.btnWrapper {
+    background-color: dimgray;
+    color: #ffffffff;
+    display: block;
+    margin: auto;
+}
+
+h1.modal-title {
+    margin: auto;
+    display: block;
+}
+
+.modalIMG {
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+    height: 200px;
+}
+
+.modalFormWrapper {
+   padding: 2rem; 
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+    width 300px;
+    height: 300px;
+}
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width; 50%;
+}
+
+.footerImg {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+.fa-2xl {
+    margin: 10px;
+     
+}
+
+.socialWrapper {
+    margin: auto;
+    float: left;
+}
